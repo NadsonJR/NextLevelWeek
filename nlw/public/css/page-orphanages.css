@@ -41,7 +41,6 @@ a.create-orphanage {
   display: flex;
   justify-content: center;
   align-items: center;
-
   transition: background-color 200ms;
 }
 
