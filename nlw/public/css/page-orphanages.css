@@ -7,6 +7,7 @@
 #mapid{
   width: 100%;
   height: 100%;
+  z-index: -1;
 }
 
 aside {
@@ -47,6 +48,7 @@ a.create-orphanage {
   justify-content: center;
   align-items: center;
   transition: background-color 200ms;
+  z-index: 1 !important;
 }
 
 a.create-orphanage:hover{
